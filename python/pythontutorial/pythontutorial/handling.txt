@@ -1,1 +1,0 @@
-this is the example of opening a file using python.this is added line using appendthis is added line using append.this is added line using append.this is added line using append.this is added line using append.this is added line using append.this is added line using append.
